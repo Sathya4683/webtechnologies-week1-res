@@ -23,7 +23,7 @@ This project is a simple, responsive resume built using only HTML and CSS. It is
 1. Clone or download the repository.
 2. Open `index.html` in a web browser to preview the resume.
 3. Edit `index.html` to update your personal details, education, skills, and experience.
-4. Modify `style.css` to change fonts, colors, or layout styles as needed.
+4. Modify `index.css` to change fonts, colors, or layout styles as needed.
 5. To print or export as PDF, use the browser's "Print" or "Save as PDF" option.
 
 ## Customization Tips
